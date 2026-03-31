@@ -39,6 +39,6 @@ profit fluctuate across different global markets, timeframes, and customer segme
   contributing significantly more than the US market in this specific dataset.
 
   ## 📸 Dashboard Preview
-![Dashboard Screenshot] https://drive.google.com/file/d/1Vo3dW1GGSWDqB1-2DhKdEDb2LQ3x4NE8/view?usp=sharing
+  Dashboard Screenshot
 ![WhatsApp Image 2026-03-31 at 10 20 22 PM](https://github.com/user-attachments/assets/5ca8a431-51a5-44b7-8240-c29b15bd93d7)
 
