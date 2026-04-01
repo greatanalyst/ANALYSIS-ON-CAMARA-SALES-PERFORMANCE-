@@ -41,4 +41,6 @@ profit fluctuate across different global markets, timeframes, and customer segme
   ## 📸 Dashboard Preview
   Dashboard Screenshot
 ![WhatsApp Image 2026-03-31 at 10 20 22 PM](https://github.com/user-attachments/assets/5ca8a431-51a5-44b7-8240-c29b15bd93d7)
+<img width="1893" height="830" alt="image" src="https://github.com/user-attachments/assets/a3721dc9-5db8-45a2-9a93-a52dbac869af" />
+
 
